@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Getting Started with Shiny for Python
 ================
 
 ### posit::conf 2023
